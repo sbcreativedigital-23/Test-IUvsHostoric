@@ -1,0 +1,6 @@
+{
+  "name": "Indiana 2025 vs Historical Titans",
+  "description": "Championship intelligence suite framed across three narrative arcs: The Evolution of Dominance, The Résumé vs. The Machine, and The Market Outlier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
